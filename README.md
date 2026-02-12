@@ -1,1 +1,3 @@
-# sexo.rafinha
+git hub é a maior plataforma de hospedagem de código-fonte e arquivos baseada em nuvem, utilizando o sistema Git para controle de versão
+O GitLab é uma plataforma completa de desenvolvimento de software baseada em Git, projetada para gerenciar todo o ciclo de vida DevOps (DevSecOps) em um único aplicativo]
+O Bitbucket é uma plataforma de hospedagem de código-fonte baseada em Git, focada em equipes, desenvolvida pela Atlassian. Ele serve para armazenar repositórios, gerenciar o controle de versão, facilitar a colaboração via pull requests e integrar CI/CD (integração e implantação contínuas), funcionando como um hub central, especialmente para usuários do Jira e Trello. 
